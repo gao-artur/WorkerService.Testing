@@ -21,7 +21,6 @@ namespace WorkerService.Testing.IntegrationTests
                         invoker.Handler = operationHandler;
                     });
 
-
             return invoker;
         }
     }
